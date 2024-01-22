@@ -66,6 +66,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinsrini&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
 [![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aswinsrini&count_private=true&show_icons=true&theme=dark)]()
+###
+
+<div align="">
+  <img src="https://streak-stats.demolab.com?user=aswinsrini&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
